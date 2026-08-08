@@ -1,0 +1,1 @@
+iverilog -o d_flipflop_sim src/d_flipflop.v testbench/d_flipflop_tb.v
